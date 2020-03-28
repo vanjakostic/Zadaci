@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1585427272 source:c:\users\user\desktop\Škola\programiranje\13.3.2020\kolac\main.cpp
+	<iostream>
+	"kolac.hpp"
+
+1585427081 c:\users\user\desktop\Škola\programiranje\13.3.2020\kolac\kolac.hpp
+	"preliv.hpp"
+
+1585424705 c:\users\user\desktop\Škola\programiranje\13.3.2020\kolac\preliv.hpp
+
